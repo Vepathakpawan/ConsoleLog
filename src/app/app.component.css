@@ -1,0 +1,11 @@
+textarea {
+    background-color: cornflowerblue;
+    font-family: serif;
+}
+
+button {
+    background-color: darkturquoise;
+    border-radius: 20px;
+    border: none;
+    font-size: 20px;
+}
